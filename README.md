@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saisunil Akula</h1>
-<h3 align="center">Programmer 💻 Tech GEEK 🤖 Anime Watcher❤️‍🔥 Interested In Cyber Security 🗝️</h3>
+<h3 align="center">Programmer 💻  Tech GEEK 🤖   Anime Watcher❤️‍🔥   Interested In Cyber Security and Astronomy 🗝️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hackeror&label=Profile%20views&color=0e75b6&style=flat" alt="hackeror" /> </p>
 
